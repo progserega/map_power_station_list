@@ -1,0 +1,11 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
+db_host="localhost"
+db_name="drsk_osm"
+db_user="osm_read_only"
+db_passwd="XXXXXXXX"
+
+#debug=True
+debug=False
+
